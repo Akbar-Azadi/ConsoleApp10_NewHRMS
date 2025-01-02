@@ -1,0 +1,1 @@
+The human resources management program written in C# language and with console platform has the operations of adding employees, removing employees, editing employees, and activating and deactivating the desired employee.
